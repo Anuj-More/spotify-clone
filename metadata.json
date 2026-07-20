@@ -1,0 +1,6 @@
+{
+  "name": "Monochrome Sonic",
+  "description": "A sleek, high-fidelity music player styled in an Elegant Dark theme featuring dynamic synchronized lyrics, an Express REST API backend, and full player controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
